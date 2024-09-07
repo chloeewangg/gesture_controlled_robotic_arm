@@ -1,1 +1,1 @@
-# Gesture-Controlled-Robotic-Arm with Soft Gripper
+# Gesture Controlled Robotic Arm with Soft Gripper
