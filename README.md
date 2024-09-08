@@ -1,6 +1,6 @@
 # Gesture Controlled Robotic Arm with Soft Gripper
 
-![alt text]([http://url/to/img.png](https://github.com/chloeewangg/gesture_controlled_robotic_arm/blob/main/CAD/images/robot%20arm.jpg?raw=true))
+![robot arm](https://github.com/user-attachments/assets/8a4c288e-e3f0-4512-9cb5-c02188f5aa6b)
 
 I created this robot in 2023 as my capstone project for AP research. I developed all of the CAD models, circuits, and code for this project. You can read my full paper [here](https://drive.google.com/file/d/17gPBG57szYIo_FCaEM4oOgyOc0TMDgdH/view?usp=sharing). 
 
